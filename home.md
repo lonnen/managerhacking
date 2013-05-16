@@ -1,7 +1,7 @@
 # Manager Hacking Handbook
 
 ## Table of Contents
-1. Introdution
+1. Introduction
   1. Why
   2. How
   3. What
