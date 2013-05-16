@@ -1,3 +1,5 @@
+# Manager Hacking Handbook
+
 Manager Hacking is a movement dedicated to helping you become a better manager.  If you're here, you are a part of the movement.
 
 ## Why
