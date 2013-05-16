@@ -1,13 +1,13 @@
-# Manager Hacking Runbook
+# Manager Hacking Handbook
 
 ## Table of Contents
-1. Overview
+1. Introdution
   1. Why
   2. How
   3. What
-2. Setting the stage
-  1. 1:1s 
-  2. Running meetings
+2. Basics
+  1. Why are you here? 
+  2. Demystifying 1:1s
   3. Feedback loops
   4. Setting goals
   5. Defining success
