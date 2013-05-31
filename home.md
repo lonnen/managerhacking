@@ -1,39 +1,11 @@
 # Manager Hacking Handbook
 
 ## Table of Contents
-1. Introduction
-  1. Why
-  2. How
-  3. What
-2. Basics
-  1. Why are you here? 
-  2. Demystifying 1:1s
-  3. Feedback loops
-  4. Setting goals
-  5. Defining success
-3. Tricky stuff
-  1. Inspiring people
-  2. Promoting your team
-  3. Management debt
-  4. The line betwen Friend and Boss
-  5. How to vent
-4. Engineering managers
-  1. Code reviews
-  2. Empowering introverts
-  3. Dealing with brogrammers
-5. Special cases
-  1. Managing a distributed team
-  2. Your first 90 days
-  3. Your last 2 weeks
-  4. Losing your best engineer
-  5. Parental leave
-6. The dark side
-  1. Politics
-  2. Performance improvement plans
-  3. Terminations
-  4. Sexual harrassment and discrimination
-  5. Dealing with burnout
-  6. Layoffs
+
+1. Overview
+2. Why are you here?
+3. Demystifying 1:1s
+4. Mentorship
 
 ## Overview
 
@@ -47,3 +19,19 @@ There is a missing piece in most organizations.  When someone is promoted into m
 * gain perspective by exploring feedback  situations
 * encourage managers in different parts of your org to interact and form
 
+[Read more about why on managerhacking.com] (http://managerhacking.com/post/47917139008/building-a-better-manager)
+
+## How to contribute
+
+How can you help?
+* **contribute** to this guide -- [fork it on github] (https://github.com/morgamic/managerhacking/)
+* **organize** your own meetups -- then [build your own chapters] (https://github.com/morgamic/managerhacking/)
+
+## What goes in here?
+
+Some background on all of this might help you understand where it came from:
+* Right now, each chapter is based on a unique session.  In these hacking sessions, intentionally vague and open-ended questions are presented in order to provoke partitipation and allow folks to relate to the topic.  Initially, this seemed pretty cheesy but it yielded great results.  Many of the answers are already out there, I just listened and wrote them down.
+* Moving forward, I hope to expand scope.  As other people get involved and the handbook/movement grows, this can take on a life of its own.  What happens is largely up to you.
+
+## Thank you
+Thank you for reading this and being interested in helping managers (even if it's just you!).  Your thirst for learning and generally improving things helps make the world a better place.  I salute you.
