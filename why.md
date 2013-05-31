@@ -1,3 +1,3 @@
-## Why are managers important?
+# Why are managers important?
 
 
