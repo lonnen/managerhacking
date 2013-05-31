@@ -1,13 +1,4 @@
-# Manager Hacking Handbook
-
-## Table of Contents
-
-1. Overview
-2. Why are you here?
-3. Demystifying 1:1s
-4. Mentorship
-
-## Overview
+# Overview
 
 Manager Hacking is a movement dedicated to helping you become a better manager.  If you're here, you are a part of the movement.
 
